@@ -4,6 +4,7 @@ __Thymeleaf is one of the best template engines I have ever used...__
 
 - link:https://www.thymeleaf.org/[Official Thymeleaf Site]
 - link:https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html[Using Thymeleaf]
+- link:https://github.com/daggerok/thymeleaf-ee[JavaEE Thymeleaf itegration]
 
 ## videos
 
